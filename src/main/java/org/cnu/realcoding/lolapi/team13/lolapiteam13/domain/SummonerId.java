@@ -9,6 +9,6 @@ public class SummonerId {
     private String puuid;
     private long summonerLevel;
     private String accountId;
-    private String id;
     private long revisionDate;
+    private String id;
 }
