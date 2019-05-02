@@ -25,7 +25,6 @@ public class Summoner {
         private int losses;
         private int target;
         private String progress;
-
     }
 
 }
